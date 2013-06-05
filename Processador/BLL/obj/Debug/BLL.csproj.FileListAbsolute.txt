@@ -1,0 +1,9 @@
+C:\Users\vm\Desktop\Gerador\Processador\BLL\bin\Debug\BLL.dll
+C:\Users\vm\Desktop\Gerador\Processador\BLL\bin\Debug\BLL.pdb
+C:\Users\vm\Desktop\Gerador\Processador\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vm\Desktop\Gerador\Processador\BLL\obj\Debug\BLL.dll
+C:\Users\vm\Desktop\Gerador\Processador\BLL\obj\Debug\BLL.pdb
+C:\Users\vm\Desktop\Gerador\Processador\BLL\bin\Debug\MODEL.dll
+C:\Users\vm\Desktop\Gerador\Processador\BLL\bin\Debug\MODEL.pdb
+C:\Users\vm\Desktop\Gerador\Processador\BLL\bin\Debug\DAL.dll
+C:\Users\vm\Desktop\Gerador\Processador\BLL\bin\Debug\DAL.pdb

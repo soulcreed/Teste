@@ -1,0 +1,5 @@
+C:\Users\vm\Desktop\Gerador\Processador\MODEL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vm\Desktop\Gerador\Processador\MODEL\bin\Debug\MODEL.dll
+C:\Users\vm\Desktop\Gerador\Processador\MODEL\bin\Debug\MODEL.pdb
+C:\Users\vm\Desktop\Gerador\Processador\MODEL\obj\Debug\MODEL.dll
+C:\Users\vm\Desktop\Gerador\Processador\MODEL\obj\Debug\MODEL.pdb

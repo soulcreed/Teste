@@ -1,0 +1,11 @@
+C:\Users\vm\Desktop\Gerador\Processador\Processador\bin\Processador.dll
+C:\Users\vm\Desktop\Gerador\Processador\Processador\bin\Processador.pdb
+C:\Users\vm\Desktop\Gerador\Processador\Processador\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vm\Desktop\Gerador\Processador\Processador\obj\Debug\Processador.dll
+C:\Users\vm\Desktop\Gerador\Processador\Processador\obj\Debug\Processador.pdb
+C:\Users\vm\Desktop\Gerador\Processador\Processador\bin\BLL.dll
+C:\Users\vm\Desktop\Gerador\Processador\Processador\bin\MODEL.dll
+C:\Users\vm\Desktop\Gerador\Processador\Processador\bin\BLL.pdb
+C:\Users\vm\Desktop\Gerador\Processador\Processador\bin\MODEL.pdb
+C:\Users\vm\Desktop\Gerador\Processador\Processador\bin\DAL.dll
+C:\Users\vm\Desktop\Gerador\Processador\Processador\bin\DAL.pdb

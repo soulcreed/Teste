@@ -1,0 +1,5 @@
+C:\Users\vm\Desktop\Gerador\Teste\Teste\bin\Teste.dll
+C:\Users\vm\Desktop\Gerador\Teste\Teste\bin\Teste.pdb
+C:\Users\vm\Desktop\Gerador\Teste\Teste\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vm\Desktop\Gerador\Teste\Teste\obj\Debug\Teste.dll
+C:\Users\vm\Desktop\Gerador\Teste\Teste\obj\Debug\Teste.pdb

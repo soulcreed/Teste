@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="feb665a6-56ed-425b-a69c-e2e57290ff01" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:2991/Estados.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Estados.disco" MetadataType="Disco" ID="a841318f-bd30-4a56-bf84-4e9a393729c7" SourceId="1" SourceUrl="http://localhost:2991/Estados.svc?disco" />
+    <MetadataFile FileName="Estados.xsd" MetadataType="Schema" ID="9848ede9-c873-426a-8d6f-0110e206a260" SourceId="1" SourceUrl="http://localhost:2991/Estados.svc?xsd=xsd0" />
+    <MetadataFile FileName="Estados.wsdl" MetadataType="Wsdl" ID="cbb3c72c-c5d0-4468-9eef-18b921fb3207" SourceId="1" SourceUrl="http://localhost:2991/Estados.svc?wsdl" />
+    <MetadataFile FileName="Estados1.xsd" MetadataType="Schema" ID="2996191b-13ef-4af6-9a57-4f6de69deeaf" SourceId="1" SourceUrl="http://localhost:2991/Estados.svc?xsd=xsd1" />
+    <MetadataFile FileName="Estados2.xsd" MetadataType="Schema" ID="524d2d79-a3ad-4efc-a92f-c9c6ed86f0c0" SourceId="1" SourceUrl="http://localhost:2991/Estados.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

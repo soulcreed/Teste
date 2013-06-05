@@ -1,0 +1,7 @@
+C:\Users\vm\Desktop\Gerador\Processador\DAL\bin\Debug\DAL.dll
+C:\Users\vm\Desktop\Gerador\Processador\DAL\bin\Debug\DAL.pdb
+C:\Users\vm\Desktop\Gerador\Processador\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vm\Desktop\Gerador\Processador\DAL\obj\Debug\DAL.dll
+C:\Users\vm\Desktop\Gerador\Processador\DAL\obj\Debug\DAL.pdb
+C:\Users\vm\Desktop\Gerador\Processador\DAL\bin\Debug\MODEL.dll
+C:\Users\vm\Desktop\Gerador\Processador\DAL\bin\Debug\MODEL.pdb
